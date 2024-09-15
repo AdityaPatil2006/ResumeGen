@@ -7,11 +7,11 @@
 ## 🖥️ Tech Stack
 
 - **Frontend:** 
-  - ![ReactJS Logo](https://reactjs.org/logo-og.png) ReactJS
+  - ![ReactJS Logo](https://camo.githubusercontent.com/843f475ecd76831b98d17db8ff059656c45110e72d12eb0df64a7efba0ab6e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b72612d2d55492d3331393739353f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72612d7569266c6f676f436f6c6f723d7768697465) ReactJS
 - **UI Framework:** 
-  - ![Chakra UI Logo](https://chakra-ui.com/logo.png) Chakra UI
+  - ![Chakra UI Logo](https://camo.githubusercontent.com/843f475ecd76831b98d17db8ff059656c45110e72d12eb0df64a7efba0ab6e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b72612d2d55492d3331393739353f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72612d7569266c6f676f436f6c6f723d7768697465) Chakra UI
 - **Extras:** 
-  - ![React-To-Print Logo](https://raw.githubusercontent.com/gregnb/react-to-print/master/README.md/assets/react-to-print.png) React-To-Print for easy printing of resumes
+  - ![React-To-Print Logo](https://camo.githubusercontent.com/843f475ecd76831b98d17db8ff059656c45110e72d12eb0df64a7efba0ab6e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b72612d2d55492d3331393739353f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72612d7569266c6f676f436f6c6f723d7768697465) React-To-Print
 
 ## **Deployed On**
 - Vercel
@@ -24,5 +24,3 @@
 ## Sneak Peek of Home Page 🙈
 ![WebFull Image](https://github.com/AdityaPatil2006/ResumeGen/blob/main/src/assets/webFullImg.png)
 ![Mockup Image](https://github.com/AdityaPatil2006/ResumeGen/blob/main/src/assets/mockup.png)
-
-
