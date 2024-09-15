@@ -11,7 +11,7 @@
   - ** React-To-Print ** 
 
 ## **Deployed On**
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel Logo" width="50"/>
+<img src="[https://www.svgrepo.com/show/327408/logo-vercel.svg](https://media.licdn.com/dms/image/v2/D4E16AQH9QEcrhbmzXg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711762502964?e=2147483647&v=beta&t=gSt2G3W64yJgb1Iglr3HWeLF14c2p0ZEJ2MjRs-3UVw)" alt="Vercel Logo" width="50"/>
 
 ## Features
 - **Live Resume Editing:** Instantly see updates as you make changes.
