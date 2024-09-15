@@ -1,7 +1,7 @@
 ## ResumeGen
 **ResumeGen** is a ReactJS-based resume generator that allows users to create customized resumes in just a few minutes according to their specific requirements. The live resume editor provides real-time updates, making it easy to tailor resumes to fit different needs.
 
-🚀 **[Visit ResumeGen]([https://your-netlify-url.com](https://resume-gen-eight.vercel.app/))**
+🚀 **[Visit ResumeGen](https://resume-gen-eight.vercel.app/)**
 
 ## 🖥️ Tech Stack
 - **Frontend:** ReactJS
